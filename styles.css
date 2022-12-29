@@ -1,0 +1,13 @@
+body {
+    background-color: royalblue;
+    text-align: center;
+}
+
+table {
+    border: 3px solid black;
+    margin: auto;
+}
+
+th {
+    border: 3px solid black;
+}
